@@ -23,6 +23,8 @@
 - [ ] Refactor the code for better readability and maintainability
 - [ ]  Add more animations to enhance user experience
 
-<br>
+<be>
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lakshyagupta7089)
 
 > Peace guys ✌️
